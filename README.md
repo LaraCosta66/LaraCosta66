@@ -2,7 +2,6 @@
 ### Contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laracosta64/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lara.404/)
 
 
 ![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraCosta66&show_icons=true&theme=dark)
@@ -24,11 +23,12 @@
 <br>
 <li>I'm a student of software development, I'm also 21yo. </li>
 <li>I'm from São Paulo,BraSil </li>
-<li>I’m currently working on LOFT</li>
+<li>I’m currently working at LOFT</li>
 <li>I'm learning React  </li>
 
 ### Thoughts 💭 
 <li>Ser proativo 100% do tempo</li>
+<li>Ser Protagonista</li>
 <li>Quem não é visto, não é lembrado</li>
 <li>Network</li>
 <li>Comunicação</li>
