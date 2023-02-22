@@ -21,8 +21,8 @@
 
 ## More info
 <br>
-<li>I'm a student of software development, I'm also 21yo. </li>
-<li>I'm from São Paulo,BraSil </li>
+<li>I'm a junior frontEnd developer, I'm also 22yo. </li>
+<li>I'm from São Paulo,Brazil </li>
 <li>I’m currently working at LOFT</li>
 <li>I'm learning React  </li>
 
@@ -31,6 +31,6 @@
 <li>Ser Protagonista</li>
 <li>Quem não é visto, não é lembrado</li>
 <li>Network</li>
-<li>Comunicação</li>
-<li>Seja transparente</li>
-<li>Nunca pare de APRENDER</li>
+<li>Comunication</li>
+<li>Be transparent</li>
+<li>Never stop Learning</li>
