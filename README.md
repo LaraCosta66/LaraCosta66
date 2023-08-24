@@ -1,32 +1,40 @@
-# What's up? I'm Lara 🚀🤘
-Hi, I'm Lara Costa, and I'm from São Paulo, Brazil. I'm a junior front-end developer, and I'm currently learning Javascript and Reactjs. I had the opportunity to work as a junior developer at Loft, where I was able to improve my technical skills and learn about agile development process models. My main goal is to continue learning, grow professionally, and contribute to innovative and challenging projects in the field of software development.
+# Lara Costa 🚀🤘
+Hello! I'm Lara Costa, a passionate junior front-end developer based in São Paulo, Brazil. I'm on an exciting journey of growth and learning in the world of software development. With a strong foundation in front-end technologies and a growing interest in full-stack development and cloud computing, I'm eager to contribute to innovative projects and continue expanding my skill set.
 
-### Contact me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laracosta64/)
+## Background
+- **Location:** São Paulo, Brazil
+- **Role:** Junior Front-End Developer
+- **Languages:** JavaScript, Java
+- **Frameworks/Libraries:** React.js
+- **Certifications:** AWS Certified Cloud Practitioner
 
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraCosta66&show_icons=true&theme=dark)
+## Professional Experience
+I had the incredible opportunity to work as a junior developer at Loft, where I gained valuable insights into the dynamic world of software development. During my time at Loft, I honed my technical skills and gained hands-on experience with front-end technologies like React.js. I also had the chance to immerse myself in agile development process models, enhancing my ability to collaborate effectively within a team-oriented environment.
 
-## I'm currently learning and using
-<div style= "display:inline_block"><br/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="Typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+## Connect with me
+Feel free to reach out to me through the following channels:
+- [🔗My Portfolio](https://lara-costa-portfolio.vercel.app/)
+- Email: larasamilacosta@gmail.com
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laracosta64/)
+
+## Skills (Languages and Tools)
+<div style= "display:inline_block">
+  <img height="42" width="42" src="https://cdn.simpleicons.org/html5" />
+  <img height="42" width="42" src="https://cdn.simpleicons.org/css3" />
+   <img height="42" width="42" src="https://cdn.simpleicons.org/npm" />
+  <img height="42" width="42" src="https://cdn.simpleicons.org/javascript" />
+  <img height="42" width="42" src="https://cdn.simpleicons.org/react" />
+  <img height="42" width="42" src="https://cdn.simpleicons.org/typescript" />
+  <img height="42" width="42" src="https://cdn.simpleicons.org/amazonaws/white" />
 </div>
 
-<br>
+<br/>
 
-
-
-
-
-### Thoughts 💭 
-<li>Be proactive 100% of the time.</li>
-<li>Be a protagonist.</li>
-<li>Out of sight, out of mind.</li>
-<li>Networking.</li>
-<li>Communication.</li>
-<li>Be transparent.</li>
-<li>Never stop learning.</li>
+### 💭 Do Not Forget
+- **Be proactive 100% of the time.**
+- **Be a protagonist.**
+- **Out of sight, out of mind.**
+- **Networking.**
+- **Communication.**
+- **Be transparent.**
+- **Never stop learning.**
